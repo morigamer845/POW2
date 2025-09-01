@@ -1,0 +1,27 @@
+﻿@model List<guiaMVC2.Models.Personaje>
+
+    <form class="form-inline" method="POST" action="/StarRail/Find">
+        <div class="form-group mx-sm-3 mb-2">
+            <label class="mr-3">Buscar personaje</label>
+            <input type="text" class="form-control" required name="Name">
+        </div>
+        <button type="submit" class="btn btn-primary mb-2">Buscar</button>
+    </form>
+
+<h2>Lista de Personajes</h2>
+<div class="row">
+    @foreach(var item in Model)
+    {
+        <div class="col-md-3">
+            <div class="card mb-3">
+                <img src="@item.LocalImage" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-title">@item.Introduction.Substring(0,60)</p>
+                    <p class="card-text"><small class="text-muted">@item.Release</small></p>
+                    <a href="/StarRail/Details/@item.Id" class="btn btn-primary">ver mas</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

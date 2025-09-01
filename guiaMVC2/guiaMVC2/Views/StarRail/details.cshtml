@@ -1,0 +1,23 @@
+﻿@model guiaMVC2.Models.Personaje
+
+  <link href="~/css/comments_style.css" rel="stylesheet" type="text/css" />
+
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8">
+        <img src="@Model.LocalImage" class="img-fluid" alt="...">
+        </div>
+    <div class="col-md-4">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h3> @Model.Name</h3></li>
+                <li class="list-group-item">Elemento: @Model.Element</li>
+                <li class="list-group-item">Camino: @Model.Path</li>
+             <li class="list-group-item">Nivel de personaje: @Model.Rarity</li>
+            <li class="list-group-item"> Description: @Model.Introduction</li>
+            <li class="list-group-item"> Fecha de lanzamiento @Model.Release</li>
+
+        </ul>
+        <a href="/StarRail/Character/" class="mt-3 btn btn-info">Regresar</a>
+    </div>
+</div>

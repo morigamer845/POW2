@@ -1,0 +1,312 @@
+[
+  {
+    "Id": 1,
+    "Name": "Trailblazer",
+    "Element": "Physical",
+    "Path": "Destruction",
+    "Rarity": 5,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A boy/girl who boarded the Astral Express. They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+    "LocalImage": null
+  },
+  {
+    "Id": 2,
+    "Name": "March_7th",
+    "Element": "Ice",
+    "Path": "Preservation",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A girl who once slumbered in eternal ice and knows nothing about her past. To find out the truth about her origins, she decided to travel with the Astral Express. As of right now, she has prepared about 67 different versions of her life story for herself.",
+    "LocalImage": null
+  },
+  {
+    "Id": 3,
+    "Name": "Dan_Heng",
+    "Element": "Wind",
+    "Path": "Hunt",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A cold and reserved young man who is reticent about his past. To avoid his kin, he decided to travel with the Astral Express.",
+    "LocalImage": null
+  },
+  {
+    "Id": 4,
+    "Name": "Himeko",
+    "Element": "Fire",
+    "Path": "Erudition",
+    "Rarity": 5,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "The one who repaired the Astral Express.\nTo witness the vast starry sky, she decided to travel with the Astral Express.\nHer hobby is brewing hand-made coffee.",
+    "LocalImage": null
+  },
+  {
+    "Id": 5,
+    "Name": "Welt",
+    "Element": "Imaginary",
+    "Path": "Nihility",
+    "Rarity": 5,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A seasoned member of the Express crew. The passion buried in his heart burns anew as he enjoys this fresh adventure. Occasionally, he would sketch the experiences in a notebook.",
+    "LocalImage": null
+  },
+  {
+    "Id": 6,
+    "Name": "Sampo",
+    "Element": "Wind",
+    "Path": "Nihility",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A merchant who freely travels between the Overworld and the Underworld. He acts like he is everyone's friend, is enthusiastically humorous, and is good at bantering.",
+    "LocalImage": null
+  },
+  {
+    "Id": 7,
+    "Name": "Bronya",
+    "Element": "Wind",
+    "Path": "Harmony",
+    "Rarity": 5,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "Heir apparent to the Supreme Guardian of Belobog.\nShe possesses pride befitting of a princess, but also the determination and integrity of a soldier.",
+    "LocalImage": null
+  },
+  {
+    "Id": 8,
+    "Name": "Seele",
+    "Element": "Quantum",
+    "Path": "Hunt",
+    "Rarity": 5,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A resident of the Underworld and the backbone of Wildfire. She goes by the alias \"Babochka.\" She has a frank personality, but there is a delicate and sensitive hidden side to her deep in her heart.",
+    "LocalImage": null
+  },
+  {
+    "Id": 9,
+    "Name": "Asta",
+    "Element": "Fire",
+    "Path": "Harmony",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "The lead researcher of Herta Space Station and a lady from a renowned family.\nShe's an astronomer overflowing with curiosity, and excels at managing the disparate staff of the space station.",
+    "LocalImage": null
+  },
+  {
+    "Id": 10,
+    "Name": "Clara",
+    "Element": "Physical",
+    "Path": "Destruction",
+    "Rarity": 5,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A vagrant girl who lives with robots.\nShe is introverted, gentle, and has a pure heart.\nShe wishes for all Underworlders to become a family.",
+    "LocalImage": null
+  },
+  {
+    "Id": 11,
+    "Name": "Gepard",
+    "Element": "Ice",
+    "Path": "Preservation",
+    "Rarity": 5,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A captain in the Silvermane Guards and an outstanding warrior of Belobog.\nHe is meticulous and vigilant to the core and is always true to himself.",
+    "LocalImage": null
+  },
+  {
+    "Id": 12,
+    "Name": "Hook",
+    "Element": "Fire",
+    "Path": "Destruction",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "Boss (self-proclaimed) of an Underworld adventure squad, The Moles. She loves freedom and sees life as a series of adventures.",
+    "LocalImage": null
+  },
+  {
+    "Id": 13,
+    "Name": "Natasha",
+    "Element": "Physical",
+    "Path": "Abundance",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A doctor from the Underworld and a caregiver of children. Alongside her kindness and caring, she also has a hidden dangerous side.",
+    "LocalImage": null
+  },
+  {
+    "Id": 14,
+    "Name": "Pela",
+    "Element": "Ice",
+    "Path": "Nihility",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A secretarial officer for the Silvermane Guards. She has a serious personality and is revered by other members of the Silvermane Guards.",
+    "LocalImage": null
+  },
+  {
+    "Id": 15,
+    "Name": "Serval",
+    "Element": "Lightning",
+    "Path": "Erudition",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A Belobog mechanic who used to be a researcher for the Technology Division of the Architects. As Gepard Landau's elder sister, her personality stands in stark contrast to her brother's. She loves an ancient form of music known as 'rock 'n' roll' that was popular before the Eternal Freeze.",
+    "LocalImage": null
+  },
+  {
+    "Id": 16,
+    "Name": "Trailblazer",
+    "Element": "Fire",
+    "Path": "Preservation",
+    "Rarity": 5,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "A boy/girl who boarded the Astral Express. They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+    "LocalImage": null
+  },
+  {
+    "Id": 17,
+    "Name": "Arlan",
+    "Element": "Lightning",
+    "Path": "Destruction",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "The head of Herta Space Station's Security Department.\nThis quiet boy hopes to protect the researchers who value their pursuit of knowledge, and to help them to complete their work.",
+    "LocalImage": null
+  },
+  {
+    "Id": 18,
+    "Name": "Blade",
+    "Element": "Wind",
+    "Path": "Destruction",
+    "Rarity": 5,
+    "Release": "2023-07-19T00:00:00.000Z",
+    "Introduction": "A member of the Stellaron Hunters, and a swordsman who abandoned his body to become a blade. Pledges loyalty to 'Destiny's Slave,' and possesses a terrifying self-healing ability.",
+    "LocalImage": null
+  },
+  {
+    "Id": 19,
+    "Name": "Herta",
+    "Element": "Ice",
+    "Path": "Erudition",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "Member 83 of the Genius Society. The real master of the space station.\nAn incredibly intelligent yet unsympathetic scientist.",
+    "LocalImage": null
+  },
+  {
+    "Id": 20,
+    "Name": "Jing_Yuan",
+    "Element": "Lightning",
+    "Path": "Erudition",
+    "Rarity": 5,
+    "Release": "2023-05-17T00:00:00.000Z",
+    "Introduction": "The Divine Foresight, one of the Seven Arbiter-Generals of the Xianzhou Alliance, leads the Cloud Knights of the Xianzhou Luofu.\nA student of the Luofu's previous Sword Champion, though not known for his martial prowess.",
+    "LocalImage": null
+  },
+  {
+    "Id": 21,
+    "Name": "Kafka",
+    "Element": "Lightning",
+    "Path": "Nihility",
+    "Rarity": 5,
+    "Release": "2023-08-09T00:00:00.000Z",
+    "Introduction": "A member of the Stellaron Hunters. A dashing, collected, and professional beauty. Used the enchantment of Spirit Whisper to set up Trailblazer to absorb the Stellaron. Her hobby is shopping for and organizing her collection of coats.",
+    "LocalImage": null
+  },
+  {
+    "Id": 22,
+    "Name": "Luocha",
+    "Element": "Imaginary",
+    "Path": "Abundance",
+    "Rarity": 5,
+    "Release": "2023-06-28T00:00:00.000Z",
+    "Introduction": "A blond-haired handsome young man who carries a coffin on his back. As a member of the intergalactic merchant guild, he was unfortunately caught in the Xianzhou Luofu's Stellaron crisis.\nSomehow, his superb medical skills are sure to be of use.",
+    "LocalImage": null
+  },
+  {
+    "Id": 23,
+    "Name": "Silver_Wolf",
+    "Element": "Quantum",
+    "Path": "Nihility",
+    "Rarity": 5,
+    "Release": "2023-06-07T00:00:00.000Z",
+    "Introduction": "A member of the Stellaron Hunters and a genius hacker. She sees the universe as a massive immersive simulation game and has fun with it. She's mastered the skill known as 'aether editing' which can be used to tamper with the data of reality.",
+    "LocalImage": null
+  },
+  {
+    "Id": 24,
+    "Name": "Bailu",
+    "Element": "Lightning",
+    "Path": "Abundance",
+    "Rarity": 5,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "The High Elder of the Vidyadhara, who is also known as the 'Healer Lady' on the Luofu. She uses her unique medical science and the medical treatment that can only be provided by the Vidyadhara dragon race to save lives.",
+    "LocalImage": null
+  },
+  {
+    "Id": 25,
+    "Name": "Qingque",
+    "Element": "Quantum",
+    "Path": "Erudition",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "Diviner of the Divination Commission on the Xianzhou Luofu, and a librarian. Always slacks off and is about to be demoted to a 'door guardian.'",
+    "LocalImage": null
+  },
+  {
+    "Id": 26,
+    "Name": "Tingyun",
+    "Element": "Lightning",
+    "Path": "Harmony",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "Amicassador of the Sky-Faring Commission of the Xianzhou Luofu. She travels with business delegates, forging trade relationships and alliances with many worlds.",
+    "LocalImage": null
+  },
+  {
+    "Id": 27,
+    "Name": "Yanqing",
+    "Element": "Ice",
+    "Path": "Hunt",
+    "Rarity": 5,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age. No one can best Yanqing when he holds a sword in hand.",
+    "LocalImage": null
+  },
+  {
+    "Id": 28,
+    "Name": "Sushang",
+    "Element": "Physical",
+    "Path": "Hunt",
+    "Rarity": 4,
+    "Release": "2023-04-26T00:00:00.000Z",
+    "Introduction": "Born on the Xianzhou Yaoqing, sent to the Cloud Knights of the Luofu for military training. She wields her family sword, a gift from her mother, and longs for the future she will go on to write.",
+    "LocalImage": null
+  },
+  {
+    "Id": 29,
+    "Name": "Yukong",
+    "Element": "Imaginary",
+    "Path": "Harmony",
+    "Rarity": 4,
+    "Release": "2023-06-28T00:00:00.000Z",
+    "Introduction": "Head of the Sky-Faring Commission on the Xianzhou Luofu. Yukong was a seasoned pilot and a deadshot. Since heading up the commission, she's been buried under mountains of paperwork.",
+    "LocalImage": null
+  },
+  {
+    "Id": 30,
+    "Name": "Luka",
+    "Element": "Physical",
+    "Path": "Nihility",
+    "Rarity": 4,
+    "Release": "2023-08-09T00:00:00.000Z",
+    "Introduction": "An optimistic and carefree fighter with a mechanical arm. Skilled in mixed martial arts and is a Wildfire member. From the fight cage to the battlefield, and from a fighter to a warrior, Luka uses his strength to protect the people of the Underworld. He wishes to bring hope to others precisely because he had experienced despair himself.",
+    "LocalImage": null
+  },
+  {
+    "Id": 31,
+    "Name": "Imbibitor_Lunae",
+    "Element": "Imaginary",
+    "Path": "Destruction",
+    "Rarity": 5,
+    "Release": "2023-08-30T00:00:00.000Z",
+    "Introduction": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae. Upon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner.",
+    "LocalImage": null
+  }
+]
