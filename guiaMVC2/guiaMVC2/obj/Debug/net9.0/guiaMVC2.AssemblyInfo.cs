@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("guiaMVC2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7fe27a63fc431fa25d36a0fcdb8897c289d9908")]
 [assembly: System.Reflection.AssemblyProductAttribute("guiaMVC2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("guiaMVC2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

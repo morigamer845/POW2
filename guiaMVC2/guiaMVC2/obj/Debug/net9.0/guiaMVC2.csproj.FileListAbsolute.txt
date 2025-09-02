@@ -435,4 +435,5 @@ C:\Users\PC\Documents\trabajo_estudio_Moriel\4to_anio\segundoSemetre\POW2\guiaMV
 C:\Users\PC\Documents\trabajo_estudio_Moriel\4to_anio\segundoSemetre\POW2\guiaMVC2\guiaMVC2\obj\Debug\net9.0\guiaMVC2.genruntimeconfig.cache
 C:\Users\PC\Documents\trabajo_estudio_Moriel\4to_anio\segundoSemetre\POW2\guiaMVC2\guiaMVC2\obj\Debug\net9.0\ref\guiaMVC2.dll
 C:\Users\PC\Documents\trabajo_estudio_Moriel\4to_anio\segundoSemetre\POW2\guiaMVC2\guiaMVC2\obj\Debug\net9.0\compressed\uog53v9946-ut744feejq.gz
-C:\Users\PC\Documents\trabajo_estudio_Moriel\4to_anio\segundoSemetre\POW2\guiaMVC2\guiaMVC2\obj\Debug\net9.0\compressed\0q1puoh1vv-obk2e18lmd.gz
+C:\Users\PC\Documents\trabajo_estudio_Moriel\4to_anio\segundoSemetre\POW2\guiaMVC2\guiaMVC2\obj\Debug\net9.0\guiaMVC2.sourcelink.json
+C:\Users\PC\Documents\trabajo_estudio_Moriel\4to_anio\segundoSemetre\POW2\guiaMVC2\guiaMVC2\obj\Debug\net9.0\compressed\0q1puoh1vv-qj8vj93zuh.gz
